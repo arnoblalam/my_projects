@@ -1,4 +1,4 @@
-# Here are a couple of Projects I have worked on
+# Some Projects I have worked on
 
 * Website for the textbook ['Foundations of Info-Metrics'](http://info-metrics.org).  The repository is available upon request.
 
