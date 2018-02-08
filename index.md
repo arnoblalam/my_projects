@@ -12,7 +12,7 @@
 
 * Analysis of a risk-sharing network (social network).  The repository is available [here](https://github.com/arnoblalam/riskSharing).
 
-* Tree/Random Forest based classification of notices from http://www.fbo.gov. Details of the project are available [here](http://www.example.com).
+* Tree/Random Forest based classification of notices from http://www.fbo.gov. Details of the project are available [here](https://github.com/arnoblalam/my_projects/blob/master/Classifying%20Federal%20Contracting%20Notices.pdf).
 
 * Code for "efficient aggregation" of networks/graphs using Maximum Entropy methods. Repository is available [here](https://github.com/arnoblalam/graph-research).
 
